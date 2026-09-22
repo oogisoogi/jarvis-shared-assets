@@ -1,0 +1,1 @@
+{"accounts":[{"provider":"claude","label":"acct-a@example.com","rate":[{"label":"5h","used_pct":71.0},{"label":"7d","used_pct":80.0}]}]}
